@@ -18,7 +18,7 @@ Please note: **Core documentation is deeply buried.** Explore the nested directo
 | L1    | Metadata Refraction & Signposting   | `README.cff`, `.well`    | 🧭 Partial    |
 | L2    | Functional Illusions                | `index.html`, `favicon`  | ✨ Active     |
 | L3    | Symbolic Payload                    | `ukubona.png`, `🏝️.md`    | 🪡 Hidden     |
-| L4    | Recursive Entrypoints               | `contorno/ensi/ukuzula/` | 🔑 Intentional |
+| L4    | Recursive Entrypoints               | `ukuzula/` | 🔑 Intentional |
 
 ---
 
@@ -73,7 +73,7 @@ $$
 - [Launch Dashboard](https://example.com/404)  
 - [Token Dispenser](./token.cff)  
 - [Index (Decoy)](./index.html)  
-- [Start Reading](./kitabo/ensi/ukubona/index.html) 🧭  
+- [Start Reading](./index.html) 🧭  
 - [Entropy Poem](./poem.md) ✍️
 
 ---
@@ -121,8 +121,8 @@ In Ukusoma, **Layer 2 and Layer 3** are where decoys masquerade as payloads, and
 *A poetic decoy wrapped in layered epistemology*  
 
 <p align="center">
-  <a href="kitabo/ensi/figures/poem.png">
-    <img src="kitabo/ensi/figures/poem.png" width="300" />
+  <a href="poem.png">
+    <img src="poem.png" width="300" />
   </a><br>
   <em>Click to expand the verse</em>
 </p>
@@ -183,33 +183,4 @@ shall inherit the fire.
 find decoy -name "*.py" | head -n 20
 ```
 
-# flick 20250413005458-cote
-# flick 20250413222658-Z4QV
-# flick 20250414003214-ocsO
-# flick 20250414182648-z1xK
-# flick 20250415192653-lA9u
-# flick 20250415193726-w3Jg
-# flick 20250415200150-etyP
-# flick 20250415204935-US8H
-# flick 20250415210427-8Uag
-# flick 20250415212833-7Wct
-# flick 20250415223236-K5fk
-# flick 20250416020255-85KM
-# flick 20250416041429-XmMx
-# flick 20250416151118-429T
-# flick 20250416152310-Zz1F
-# flick 20250416155839-bwPs
-# flick 20250416160321-wFQ5
-# flick 20250416160544-dw4R
-# flick 20250416163101-ym4z
-# flick 20250416165919-JVCg
-# flick 20250416214303-PnFw
-# flick 20250416215309-0xv3
-# flick 20250416223141-FZ86
-# flick 20250416230554-3EiU
-# flick 20250417000350-h7P4
-# flick 20250417002613-Jgq9
-# flick 20250417003828-PLwO
-# flick 20250417022312-nq24
-# flick 20250417023928-WaxY
-# flick 20250417024303-4Oz9
+
